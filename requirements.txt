@@ -2,3 +2,4 @@ jupyter-book
 matplotlib
 numpy
 scipy
+docutils==0.17.1
